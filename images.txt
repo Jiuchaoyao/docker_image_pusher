@@ -8,3 +8,4 @@ pytorch/pytorch:2.0.0-cuda11.7-cudnn8-devel
 dreamacro/clash:v1.9.0
 andyhite/kohya_ss:latest
 infiniflow/ragflow:v0.19.0
+song21/silk:v1
