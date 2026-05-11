@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly-fb1ac806c55a6dc96fe92261b80c8550e9c39d2f
+vllm/vllm-openai:v0.20.2-cu129-ubuntu2404
